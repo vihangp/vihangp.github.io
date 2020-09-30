@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vihang Patil"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Reinforcement Learning. Machine Learning."
   location         : "Austria"
   employer         :
